@@ -4,7 +4,7 @@
 
 This is a challenge on https://zindi.africa/competitions/runmila-ai-institute-minohealth-ai-labs-tuberculosis-classification-via-x-rays-challenge 
 
-![Screenshot of the competition](image.jpg)
+![Screenshot of the competition](image.JPG)
 
 
 
